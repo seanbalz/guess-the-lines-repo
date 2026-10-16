@@ -75,6 +75,13 @@ The [implementation checklist](PER_GAME_SCORING_RELEASE.md) and nine-row
 [scoring backlog](../planning/scoring-and-player-trends.md) retain the detailed
 scope; Trends metrics and comparison decisions remain a later checkpoint.
 
+Sean subsequently authorized the production release. The exact merged source,
+fresh three-machine test/sync evidence, prepared production build and ordered
+apply checklist are in the [production release card](CORE_SCORING_PRODUCTION_RELEASE.md).
+Sean approved a one-time weekday exception at the first verified quiet window.
+Execution is pending usable Supabase access and a fresh passing game-window
+check; no hosted mutation or deployment is claimed by that card.
+
 ## Verified delivery baseline
 
 All five opt-in tabs—Home, Play, Bets, Lines and League—are live through the
